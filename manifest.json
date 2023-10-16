@@ -1,6 +1,6 @@
 {
-    "name": "profithot",
-    "short_name": "profithot",
+    "name": "locationfinder",
+    "short_name": "locationfinder",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
